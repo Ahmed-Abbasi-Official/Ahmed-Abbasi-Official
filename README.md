@@ -18,15 +18,15 @@
 
 - 📝 See my resume: <a href="https://drive.google.com/file/d/1KIHKK8ahQ9ukyYHzHjEn1Vu1-plbFh8T/view?usp=drive_link" target="_blank">Click here ...</a>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed0312006&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed0312006" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Abbasi-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abbasi-Official" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed0312006&show_icons=true&locale=en&layout=compact" alt="Ahmed0312006" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abbasi-Official&show_icons=true&locale=en&layout=compact" alt="Ahmed0312006" /></p>
 
-![Ahmed Abbasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed0312006&show_icons=true&bg_color=00000000)
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ahmed0312006&theme=dark&background=000000"/></p>
+![Ahmed Abbasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abbasi-Official&show_icons=true&bg_color=00000000)
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ahmed-Abbasi-Official&theme=dark&background=000000"/></p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed0312006&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Abbasi-Official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages And Tools:
 
