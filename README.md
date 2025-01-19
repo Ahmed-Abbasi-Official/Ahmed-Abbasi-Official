@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmedabbasi.netlify.app/](https://ahmedabbasi.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Firebase, Java.**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Firebase, Mongodb, Express JS, Node JS, Tanstack Query, Next JS.**
 
 - 📫 How to reach me **aymi.coding@gmail.com**
 
