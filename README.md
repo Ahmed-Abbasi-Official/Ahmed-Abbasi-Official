@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Ahmed%20Abbasi%20‍💻&desc=Frontend%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Ahmed%20Abbasi%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ahmed-Abbasi-Official&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true)](https://github.com/Ahmed-Abbasi-Official/)
 
