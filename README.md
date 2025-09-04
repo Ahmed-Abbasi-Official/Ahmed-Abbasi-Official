@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aymi.coding@gmail.com**
 
-- 📝 See my resume: <a href="https://drive.google.com/file/d/1KIHKK8ahQ9ukyYHzHjEn1Vu1-plbFh8T/view?usp=drive_link" target="_blank">Click here ...</a>
+- 📝 See my resume: <a href="https://drive.google.com/file/d/1MvzfdLa1st-ws77YH0trEmL1ODiaPoMM/view" target="_blank">Click here ...</a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Abbasi-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abbasi-Official" /> </p>
 
