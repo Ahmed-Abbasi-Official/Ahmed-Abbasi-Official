@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Backend with JavaScript and Java.**
 
-- 👨‍💻 All of my projects are available at [https://ahmedabbasi.netlify.app/](https://ahmedabbasi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ahmed-abbasi.vercel.app/](https://ahmed-abbasi.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Firebase, Mongodb, Express JS, Node JS, Tanstack Query, Next JS.**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NextJS, Firebase, Mongodb, Express JS, Node JS, Tanstack Query, Next JS, Dokcer, Nginx, Redis, Socket.io, Postgrss Sql, load Blanacing, Horizental Scalling, Database Design, RabbitMq
 
 - 📫 How to reach me **aymi.coding@gmail.com**
 
